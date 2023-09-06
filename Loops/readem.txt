@@ -1,0 +1,3 @@
+it a basic java loops, 
+this is my soltion...
+link to Question: https://www.hackerrank.com/challenges/java-loops/problem?h_r=profile
