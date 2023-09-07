@@ -5,6 +5,27 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "hasNoPrimeFactorLargerThan5",
+            "request": "launch",
+            "mainClass": "hasNoPrimeFactorLargerThan5",
+            "projectName": "HackerRank_daily_solutions_7658de1b"
+        },
+        {
+            "type": "java",
+            "name": "hasNoPrimeFactorLargerThan5",
+            "request": "launch",
+            "mainClass": "isPrimeFactorLargerThanFive.hasNoPrimeFactorLargerThan5",
+            "projectName": "HackerRank_daily_solutions_7658de1b"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "isPrimeFactorLargerThanFive.Main",
+            "projectName": "HackerRank_daily_solutions_7658de1b"
+        },
+        {
             "name": "(gdb) Attach",
             "type": "cppdbg",
             "request": "attach",
@@ -24,6 +45,5 @@
                 }
             ]
         }
-
     ]
 }
